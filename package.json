@@ -1,0 +1,25 @@
+{
+  "name": "2D-Tunnel-Shader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevherkarakoc/2D-Tunnel-Shader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cevherkarakoc/2D-Tunnel-Shader/issues"
+  },
+  "homepage": "https://github.com/cevherkarakoc/2D-Tunnel-Shader#readme",
+  "devDependencies": {
+    "glslify-bundle": "^5.0.0",
+    "glslify-deps": "^1.3.1"
+  }
+}
